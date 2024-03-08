@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 My name is Cody Fernando
+I like everything about clothes, selling or buying. 
+I am currently looking to work on a game with my friends
+We plan on making it a platformer or a shooter game
+⚡ Fun fact: My favorite food is fish
+
 
 <!--
 **Kodybear9000/Kodybear9000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
